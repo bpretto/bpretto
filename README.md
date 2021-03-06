@@ -31,5 +31,5 @@
 [![Java](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/prettob/)](https://github.com/prettob/)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettob&layout=compact&bg_color=0d1117&text_color=333333">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettob&layout=compact&bg_color=0d1117&text_color=ffffff">
 
