@@ -32,5 +32,6 @@
 
 
 :zap: **Languages Used**
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettob&layout=compact&bg_color=ffffff&text_color=333333">
 
