@@ -1,4 +1,4 @@
-# Hello! :wave:
+# Hey there! :wave:
 
 :man_technologist: My name is Bernardo Pretto, I am 17 years old and I'm a programming student at the Federal Institude of Santa Catarina (IFSC). I love to innovate and help people. Currently working on my undergraduate thesis, using Node.js and React Native with Typescript. I'm also really into finances and investments. :money_with_wings:
 
