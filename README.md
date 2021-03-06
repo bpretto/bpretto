@@ -17,7 +17,7 @@
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/prettob/)](https://github.com/prettob/)
 
 
-**Experienced: **
+**Experienced:**
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/prettob/)](https://github.com/prettob/)
@@ -25,7 +25,7 @@
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=Java&link=https://github.com/prettob/)](https://github.com/prettob/)
 
-**Interested on: **
+**Interested on:**
 [![Java](https://img.shields.io/badge/rust-%23000000.svg?&style=flat-square&logo=Rust&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Java](https://img.shields.io/badge/elixir-%234B275F.svg?&style=flat-square&logo=Elixir&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Java](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/prettob/)](https://github.com/prettob/)
