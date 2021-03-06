@@ -9,7 +9,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/prettob/)](https://github.com/prettob/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/prettob/))](https://github.com/prettob/)
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/prettob/)](https://github.com/prettob/)
