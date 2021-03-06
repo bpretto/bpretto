@@ -4,7 +4,7 @@
 
 ## Knowledge
 
-**Very experienced: **
+**Very experienced:**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/prettob/)](https://github.com/prettob/)
