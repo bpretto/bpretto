@@ -17,6 +17,9 @@
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-003B57?style=flat-square&logo=postgresql&link=https://github.com/prettob/)](https://github.com/prettob/)
 
+[![Jest](https://img.shields.io/badge/-Jest-97737d?style=flat-square&logo=jest&link=https://github.com/prettob/)](https://github.com/prettob/)
+
+
 
 **Experienced:**
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/prettob/)](https://github.com/prettob/)
