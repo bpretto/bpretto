@@ -26,7 +26,8 @@
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=Java&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Docker](https://img.shields.io/badge/-Docker-003B57?style=flat-square&logo=docker&link=https://github.com/prettob/)](https://github.com/prettob/)
-[![Firebase](https://img.shields.io/badge/-Firebase-003B57?style=flat-square&logo=firebase&link=https://github.com/prettob/)](https://github.com/prettob/)
+[![Firebase](https://img.shields.io/badge/-Firebase-%23ED8B00.svg?style=flat-square&logo=firebase&link=https://github.com/prettob/)](https://github.com/prettob/)
+
 
 **Interested on:**
 [![Java](https://img.shields.io/badge/rust-%23000000.svg?&style=flat-square&logo=Rust&link=https://github.com/prettob/)](https://github.com/prettob/)
