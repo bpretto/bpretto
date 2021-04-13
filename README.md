@@ -25,11 +25,11 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/prettob/)](https://github.com/prettob/)
-[![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/prettob/)](https://github.com/prettob/)
+[![Python](https://img.shields.io/badge/-Python-f6d145?style=flat-square&logo=Python&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=Java&link=https://github.com/prettob/)](https://github.com/prettob/)
 [![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker&link=https://github.com/prettob/)](https://github.com/prettob/)
-[![Firebase](https://img.shields.io/badge/-Firebase-003B57?style=flat-square&logo=firebase&link=https://github.com/prettob/)](https://github.com/prettob/)
+[![Firebase](https://img.shields.io/badge/-Firebase-039be6?style=flat-square&logo=firebase&link=https://github.com/prettob/)](https://github.com/prettob/)
 
 
 **Interested on:**
