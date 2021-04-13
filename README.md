@@ -33,9 +33,9 @@
 
 
 **Interested on:**
-[![Java](https://img.shields.io/badge/rust-%23000000.svg?&style=flat-square&logo=Rust&link=https://github.com/prettob/)](https://github.com/prettob/)
-[![Java](https://img.shields.io/badge/elixir-%234B275F.svg?&style=flat-square&logo=Elixir&link=https://github.com/prettob/)](https://github.com/prettob/)
-[![Java](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/prettob/)](https://github.com/prettob/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat-square&logo=Rust&link=https://github.com/prettob/)](https://github.com/prettob/)
+[![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?&style=flat-square&logo=Elixir&link=https://github.com/prettob/)](https://github.com/prettob/)
+[![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/prettob/)](https://github.com/prettob/)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpretto&layout=compact&bg_color=0d1117&text_color=fff">
