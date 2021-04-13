@@ -26,7 +26,7 @@
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Python](https://img.shields.io/badge/-Python-f6d145?style=flat-square&logo=Python&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=Java&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Firebase](https://img.shields.io/badge/-Firebase-039be6?style=flat-square&logo=firebase&link=https://github.com/bpretto/)](https://github.com/bpretto/)
