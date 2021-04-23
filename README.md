@@ -34,7 +34,7 @@
 
 **Interested on:**
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=Rust&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?&style=flat-square&logo=Elixir&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&style=flat-square&logo=Elixir&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 
 
