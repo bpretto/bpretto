@@ -37,7 +37,7 @@
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=Rust&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&style=flat-square&logo=Elixir&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Angular](https://img.shields.io/badge/Angular%20-%2472cf.svg?&style=flat-square&logo=Angular&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Angular](https://img.shields.io/badge/Angular-%2302569B.svg?&style=flat-square&logo=Angular&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpretto&layout=compact&bg_color=0d1117&text_color=fff">
