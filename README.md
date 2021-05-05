@@ -8,7 +8,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Express](https://img.shields.io/badge/-Express-fff?style=flat-square&logo=express&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Jest](https://img.shields.io/badge/-Jest-97737d?style=flat-square&logo=jest&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/bpretto/)](https://github.com/bpretto/)
