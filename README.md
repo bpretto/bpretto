@@ -12,7 +12,7 @@
 [![Jest](https://img.shields.io/badge/-Jest-97737d?style=flat-square&logo=jest&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=postgresql&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/bpretto/)](https://github.com/bpretto/)
