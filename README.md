@@ -25,7 +25,7 @@
 **Experienced:**
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Figma](https://img.shields.io/badge/-Framer-ffbaba?style=flat-square&logo=figma&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Figma](https://img.shields.io/badge/-Framer-ffbaba?style=flat-square&logo=framer&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat-square&logo=mysql&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Python](https://img.shields.io/badge/-Python-f6d145?style=flat-square&logo=Python&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp&link=https://github.com/bpretto/)](https://github.com/bpretto/)
