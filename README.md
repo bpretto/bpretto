@@ -18,7 +18,7 @@
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Framer](https://img.shields.io/badge/-Framer-2596be?style=flat-square&logo=framer&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Framer](https://img.shields.io/badge/-Framer-105cfb?style=flat-square&logo=framer&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 
 
 
