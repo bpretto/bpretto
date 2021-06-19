@@ -18,14 +18,13 @@
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Framer](https://img.shields.io/badge/-Framer-2596be?style=flat-square&logo=framer&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 
 
 
 
 **Experienced:**
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Figma](https://img.shields.io/badge/-Framer-ffbaba?style=flat-square&logo=framer&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat-square&logo=mysql&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Python](https://img.shields.io/badge/-Python-f6d145?style=flat-square&logo=Python&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&link=https://github.com/bpretto/)](https://github.com/bpretto/)
