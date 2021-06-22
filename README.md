@@ -32,7 +32,7 @@
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=Java&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![php](https://img.shields.io/badge/-php-fff?style=flat-square&logo=php&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![aws](https://img.shields.io/badge/-AWS-232f3f?style=flat-square&logo=amazon%20web%20services&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![aws](https://img.shields.io/badge/-AWS-232f3f?style=flat-square&logo=amazon-aws&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 
 
 **Interested on:**
