@@ -1,6 +1,6 @@
 # Hey there! :wave:
 
-:man_technologist: My name is Bernardo Pretto, I am 17 years old and I'm a programming student at the Federal Institute of Santa Catarina (IFSC) :brazil:. I love to innovate and help people. Currently working on my undergraduate thesis, using Firebase and React Native with Javascript (@ClassClubApp) and also working hard on a Node.js API with Typescript from the Ignite bootcamp by @Rocketseat. I'm also really into finances and investments. :money_with_wings:
+:man_technologist: My name is Bernardo Pretto, I am 17 years old and I'm a programming student at the Federal Institute of Santa Catarina (IFSC) :brazil:. I love to innovate and help people. Currently working hard on my undergraduate thesis, using Firebase and React Native with Javascript (@ClassClubApp). I'm also really into finances and investments. :money_with_wings:
 
 ## Knowledge
 
