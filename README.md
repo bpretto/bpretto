@@ -49,5 +49,5 @@
 You can reach me on: 
 
 [![Instagram](https://img.shields.io/badge/Instagram-fff.svg?style=for-the-badge&logo=Instagram&logoColor=black&link=https://instagram.com/bdgpretto/)](https://instagram.com/bdgpretto/)
-[![E-mail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=black&link=mailto:bernardo@pretto.dev)](mailto:bernardo@pretto.dev)
+[![E-mail](https://img.shields.io/badge/E-mail-fff?style=for-the-badge&logo=gmail&logoColor=black&link=mailto:bernardo@pretto.dev)](mailto:bernardo@pretto.dev)
 
