@@ -46,7 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpretto&layout=compact&bg_color=0d1117&text_color=fff">
 
 
-You can reach me on: 
+## You can reach me on: 
 
 [![Instagram](https://img.shields.io/badge/Instagram-fff.svg?style=for-the-badge&logo=Instagram&logoColor=black&link=https://instagram.com/bdgpretto/)](https://instagram.com/bdgpretto/)
 [![E-mail](https://img.shields.io/badge/Gmail-fff?style=for-the-badge&logo=gmail&logoColor=black&link=mailto:bernardo@pretto.dev)](mailto:bernardo@pretto.dev)
