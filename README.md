@@ -1,6 +1,6 @@
 # Hey there! :wave:
 
-:man_technologist: My name is Bernardo Pretto, I am 18 years old and I'm a Computer Technician by the Federal Institute of Santa Catarina (IFSC) :brazil:. I love to innovate and help people. I am, at the moment, **looking for new oportunities**. I'm also really into finances and investments. :money_with_wings:
+:man_technologist: My name is Bernardo Pretto, I am 18 years old junior developer and I'm a Computer Technician by the Federal Institute of Santa Catarina (IFSC) :brazil:. I love to innovate and help people. I am, at the moment, **looking for new oportunities**. I'm also really into finances and investments. :money_with_wings:
 
 ## Knowledge
 
