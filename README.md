@@ -32,6 +32,7 @@
 
 
 **Interested on:**
+[![Vuejs](https://img.shields.io/badge/-Vuejs-43bb83?style=flat-square&logo=Vuejs&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Python](https://img.shields.io/badge/-Python-f6d145?style=flat-square&logo=Python&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&style=flat-square&logo=Elixir&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?&style=flat-square&logo=Rust&link=https://github.com/bpretto/)](https://github.com/bpretto/)
