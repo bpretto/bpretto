@@ -29,7 +29,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat-square&logo=mysql&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![C#](https://img.shields.io/badge/-CSharp-953dac?style=flat-square&logo=CSharp&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![C#](https://img.shields.io/badge/-C#-953dac?style=flat-square&logo=CSharp&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bpretto&layout=compact&bg_color=0d1117&text_color=fff">
