@@ -12,23 +12,22 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?style=flat-square&logo=postgresql&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Framer](https://img.shields.io/badge/-Framer-2596be?style=flat-square&logo=framer&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Firebase](https://img.shields.io/badge/-Firebase-039be6?style=flat-square&logo=firebase&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat-square&logo=amazon-aws&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Jest](https://img.shields.io/badge/-Jest-97737d?style=flat-square&logo=jest&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 
 
 
 
 **Things I have some experience on:**
-[![Jest](https://img.shields.io/badge/-Jest-97737d?style=flat-square&logo=jest&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat-square&logo=mysql&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/bpretto/)](https://github.com/bpretto/)
-[![Docker](https://img.shields.io/badge/-Docker-fff?style=flat-square&logo=docker&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Framer](https://img.shields.io/badge/-Framer-2596be?style=flat-square&logo=framer&link=https://github.com/bpretto/)](https://github.com/bpretto/)
+[![Firebase](https://img.shields.io/badge/-Firebase-039be6?style=flat-square&logo=firebase&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 [![C#](https://img.shields.io/badge/-C%23-953dac?style=flat-square&logo=CSharp&link=https://github.com/bpretto/)](https://github.com/bpretto/)
 
 
