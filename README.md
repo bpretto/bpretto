@@ -1,6 +1,6 @@
 # Hey there! :wave:
 
-:man_technologist: My name is Bernardo Pretto :brazil:, I am an 18 years old junior developer and Computer Technician by the Instituto Federal de Santa Catarina (IFSC). Currently, I'm studying Computer Science at the Universidade Federal da Fronteira Sul (UFFS). I love to innovate and help people by solving problems.
+:man_technologist: My name is Bernardo Pretto :brazil:, I am an 19 years old junior developer and Computer Technician by the Instituto Federal de Santa Catarina (IFSC). Currently, I'm studying Computer Science at the Universidade Federal da Fronteira Sul (UFFS). I love to innovate and help people by solving problems.
 
 ## Knowledge
 
