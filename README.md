@@ -1,6 +1,6 @@
 # Hey there! :wave::mage_man:	
 
-<img align="right" width="18%" height="190" src="https://github.com/bpretto/bpretto/blob/main/happycat.gif">
+<img align="right" width="18%" height="150" src="https://github.com/bpretto/bpretto/blob/main/happycat.gif">
 
 :man_technologist:🇧🇷 My name is **Bernardo Pretto**, I'm an 20 years old **SRE and DevSecOps Engineer**.
 
@@ -8,6 +8,8 @@
 - Skilled in optimizing infrastructure, deploying CI/CD/CS pipelines and enhancing system reliability.
 - Currently, dedicated to furthering my knowledge in monitoring systems and fortifying their dependability.
 - Open to connecting and exploring opportunities to collaborate on cloud-native projects.
+
+<br>
 
 ## Knowledge
 
@@ -52,7 +54,10 @@
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="48px" height="48px"></a>
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="48px" height="48px"></a>
 
+<br>
+
 ## Contact me
+
 <a href="https://instagram.com/bdgpretto" title="Instagram"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="48px" height="48px"></a>
 <a href="https://www.linkedin.com/in/bernardo-pretto" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="48px" height="48px"></a>
 <a href="mailto:bernardo@pretto.dev" title="Google Gmail"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Google Gmail" width="48px" height="48px"></a>
