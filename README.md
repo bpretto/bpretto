@@ -2,7 +2,7 @@
 
 <img align="right" width="18%" height="150" src="https://github.com/bpretto/bpretto/blob/main/happycat.gif">
 
-:man_technologist:🇧🇷 My name is **Bernardo Pretto**, I'm an 20 years old **SRE and DevSecOps Engineer**.
+:man_technologist::brazil: My name is **Bernardo Pretto**, I'm an 20 years old **SRE and DevSecOps Engineer**.
 
 - Experienced in architecting scalable, automated, cost-effective and secure cloud solutions.
 - Skilled in optimizing infrastructure, deploying CI/CD/CS pipelines and enhancing system reliability.
