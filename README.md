@@ -26,6 +26,7 @@
 <a href="https://aws.amazon.com/ec2/" title="AWS EC2"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws-ec2.svg" alt="AWS EC2" width="48px" height="48px"></a>
 <a href="https://aws.amazon.com/elasticache/" title="AWS Elastic Cache"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws-elastic-cache.svg" alt="AWS Elastic Cache" width="48px" height="48px"></a>
 <a href="https://aws.amazon.com/lambda/" title="AWS Lambda"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws-lambda.svg" alt="AWS Lambda" width="48px" height="48px"></a>
+and more
 
 ### DevSecOps
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="48px" height="48px"></a>
@@ -34,6 +35,7 @@
 <a href="https://www.terraform.io/" title="Terraform"><img src="https://github.com/get-icon/geticon/raw/master/icons/terraform.svg" alt="Terraform" width="48px" height="48px"></a>
 <a href="https://www.ansible.com/" title="Ansible"><img src="https://github.com/get-icon/geticon/raw/master/icons/ansible.svg" alt="Ansible" width="48px" height="48px"></a>
 <a href="https://jenkins-ci.org/" title="Jenkins"><img src="https://github.com/get-icon/geticon/raw/master/icons/jenkins.svg" alt="Jenkins" width="48px" height="48px"></a>
+<a href="https://argo-cd.readthedocs.io/en/stable/" title="ArgoCD"><img src="https://icons-for-free.com/download-icon-argocd-1331550886883580947_512.png" alt="ArgoCD" width="48px" height="48px"></a>
 <a href="https://www.linuxfoundation.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="48px" height="48px"></a>
 <a href="https://netflix.github.io/falcor/" title="Kong"><img src="https://github.com/get-icon/geticon/raw/master/icons/kong.svg" alt="Kong" width="48px" height="48px"></a>
 <a href="https://kafka.apache.org/" title="Kafka"><img src="https://github.com/get-icon/geticon/raw/master/icons/kafka-icon.svg" alt="Kafka" width="48px" height="48px"></a>
